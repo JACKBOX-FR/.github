@@ -16,7 +16,8 @@ Un Fork de JACKBOX FRANCE qui traduit les jeux Jackbox pour la communauté fran�
 - ❌ [Party pack 1]
 
 - ✅ [Dump Jackbox.tv](https://github.com/JACKBOX-FR/jackbox-fr-main-dump)
-
+- ✅ [JohnaBox](https://github.com/JACKBOX-FR/Jonahbox-Dump-Ecast-Blobcast) Dump du Serveur Jackbox Ecast et Blobcast
+  
 ✅ Terminé
 ⚪ Commencé mais non terminé
 ❌ Non commencé
