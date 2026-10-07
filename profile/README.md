@@ -7,10 +7,10 @@ Un Fork de JACKBOX FRANCE qui traduit les jeux Jackbox pour la communauté fran�
 - ✅ [Party pack 10] Officiellement traduit par Jackbox Games
 - ✅ [Party pack 9] Officiellement traduit par Jackbox Games
 - ✅ [Party pack 8](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-8-French)
-- ⚪ [Party pack 7](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-7-French)
+- ✅ [Party pack 7](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-7-French)
 - ⚪ [Party pack 6](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-6-French)
 - ⚪ [Party pack 5](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-5-French)
-- ❌ [Party pack 4]
+- ⚪ [Party pack 4]
 - ❌ [Party pack 3]
 - ❌ [Party pack 2]
 - ❌ [Party pack 1]
