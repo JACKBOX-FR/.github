@@ -10,9 +10,9 @@ Un Fork de JACKBOX FRANCE qui traduit les jeux Jackbox pour la communauté fran�
 - ✅ [Party pack 7](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-7-French)
 - ✅ [Party pack 6](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-6-French)
 - ⚪ [Party pack 5](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-5-French)
-- ⚪ [Party pack 4]
-- ⚪ [Party pack 3]
-- ❌ [Party pack 2]
+- ⚪ [Party pack 4](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-4-French)
+- ⚪ [Party pack 3](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-3-French)
+- ⚪ [Party pack 2](https://github.com/JACKBOX-FR/The-Jackbox-Party-Pack-2-French)
 - ❌ [Party pack 1]
 
 - ⚪ [Dump Jackbox.tv](https://github.com/JACKBOX-FR/jackbox-fr-main-dump) Dump jackbox.tv incluant jusqu'au pack 11 inclus
